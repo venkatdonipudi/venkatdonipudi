@@ -1,5 +1,5 @@
 Hi there! 👋
-Welcome to my GitHub profile! I'm venkat and i am a  embedded systems engineer passionate about designing and developing software for microcontrollers and embedded devices an designing pcbs.
+Welcome to my GitHub profile! I'm venkat and i am a  embedded systems engineer passionate about designing and developing software for microcontrollers and embedded devices.
 
 About Me
 🎓 Education: I'm a final-year student pursuing a degree in electronics and communication engineering.
